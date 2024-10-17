@@ -1,0 +1,734 @@
+prompt,estado_animo
+"Me siento feliz hoy",Alegre
+"Me siento triste por el tiempo que pasa",Melancólico
+"No tengo ganas de hacer nada hoy",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"Los recuerdos me hacen sentir melancólico",Melancólico
+"No siento nada en particular",Ni fu ni fa
+"Estoy emocionado por el fin de semana que viene",Alegre
+"Me invade una profunda nostalgia",Melancólico
+"No tengo ganas de opinar sobre nada",Ni fu ni fa
+"Hoy todo me hace sonreír",Alegre
+"El pasado me pesa en el corazón",Melancólico
+"Hoy es un día normal para mí",Ni fu ni fa
+"Me siento afortunado de estar aquí",Alegre
+"Siento soledad en las noches largas",Melancólico
+"Me siento indiferente ante todo",Ni fu ni fa
+"Estoy decidido a disfrutar el día",Alegre
+"Recuerdo momentos que me hacen sentir triste",Melancólico
+"Hoy no tengo emociones fuertes",Ni fu ni fa
+"Siento que todo está saliendo bien",Alegre
+"El tiempo me hace reflexionar",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me llena de alegría cada pequeño detalle",Alegre
+"Me invaden pensamientos tristes",Melancólico
+"No tengo palabras hoy",Ni fu ni fa
+"Hoy me siento optimista y positivo",Alegre
+"Siento que el pasado me busca",Melancólico
+"Hoy estoy en un estado neutro",Ni fu ni fa
+"Me siento emocionado por el futuro",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy todo me parece indiferente",Ni fu ni fa
+"Hoy tengo una sonrisa en el rostro",Alegre
+"Me siento atrapado en mis recuerdos",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Estoy tan agradecido por lo que tengo",Alegre
+"Me siento perdido en la tristeza",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Me siento bien y con energía",Alegre
+"El silencio a veces me pesa",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Me siento afortunado de tener buenos amigos",Alegre
+"Me asaltan recuerdos tristes sin aviso",Melancólico
+"Hoy no tengo planes",Ni fu ni fa
+"Me siento lleno de gratitud",Alegre
+"Las memorias a veces me abruman",Melancólico
+"Hoy todo me parece bastante común",Ni fu ni fa
+"Estoy disfrutando cada momento",Alegre
+"Me siento nostálgico al recordar",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Me siento en la cima del mundo",Alegre
+"Me invade la tristeza a veces",Melancólico
+"Hoy es solo otro día",Ni fu ni fa
+"Me siento pleno y contento",Alegre
+"Los días grises me afectan más de lo que debería",Melancólico
+"Hoy no hay emoción en mí",Ni fu ni fa
+"Hoy me siento libre y alegre",Alegre
+"Mis pensamientos me llevan a lugares oscuros",Melancólico
+"No siento nada en particular",Ni fu ni fa
+"Estoy disfrutando de cada momento que pasa",Alegre
+"Siento que el pasado me atormenta",Melancólico
+"Hoy todo me parece tan monótono",Ni fu ni fa
+"Me siento optimista sobre el futuro",Alegre
+"Me pesa el recuerdo de lo que perdí",Melancólico
+"Hoy es simplemente otro día",Ni fu ni fa
+"Estoy sintiendo alegría en cada pequeño detalle",Alegre
+"Mis pensamientos melancólicos no me dejan en paz",Melancólico
+"Hoy no tengo emociones fuertes",Ni fu ni fa
+"Me siento emocionado por lo que está por venir",Alegre
+"El pasado a veces me persigue",Melancólico
+"Hoy no me interesa mucho lo que sucede",Ni fu ni fa
+"Hoy todo me parece brillante",Alegre
+"Siento que la tristeza a veces me abraza",Melancólico
+"Hoy no siento mucha diferencia",Ni fu ni fa
+"Me siento tan agradecido por cada momento",Alegre
+"Los recuerdos tristes a veces me abrumen",Melancólico
+"Hoy todo es tan normal",Ni fu ni fa
+"Estoy disfrutando la vida al máximo",Alegre
+"El peso de mis recuerdos a veces es abrumador",Melancólico
+"Hoy no siento ninguna emoción",Ni fu ni fa
+"Me siento feliz de estar vivo",Alegre
+"Me siento melancólico sin razón aparente",Melancólico
+"Hoy es un día tranquilo",Ni fu ni fa
+"Estoy sintiendo una gran alegría hoy",Alegre
+"Los días oscuros a veces me afectan",Melancólico
+"Hoy no pasa nada especial",Ni fu ni fa
+"Me siento pleno y feliz",Alegre
+"Siento que el pasado me atormenta",Melancólico
+"Hoy todo es monótono y repetitivo",Ni fu ni fa
+"Me siento tan agradecido por cada momento",Alegre
+"Las memorias a veces me abruman",Melancólico
+"Hoy no tengo ninguna expectativa",Ni fu ni fa
+"Hoy me siento lleno de vida",Alegre
+"Me persiguen pensamientos tristes",Melancólico
+"Hoy es simplemente un día más en mi vida",Ni fu ni fa
+"Me siento con el ánimo por las nubes",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy no siento nada en particular",Ni fu ni fa
+"Me siento increíblemente optimista hoy",Alegre
+"Siento que la tristeza me abraza",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Estoy tan emocionado por lo que viene",Alegre
+"Los recuerdos oscuros a veces vuelven a mí",Melancólico
+"Hoy no tengo grandes planes",Ni fu ni fa
+"Me siento lleno de energía positiva",Alegre
+"El vacío a veces me invade",Melancólico
+"Hoy todo parece muy normal",Ni fu ni fa
+"Hoy es un día especial para mí",Alegre
+"El pasado siempre vuelve a mi mente",Melancólico
+"Hoy no siento nada diferente",Ni fu ni fa
+"Estoy feliz de estar aquí",Alegre
+"Me pesa el recuerdo de lo que perdí",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento increíblemente afortunado",Alegre
+"Siento que el tiempo se detiene",Melancólico
+"Hoy todo es bastante aburrido",Ni fu ni fa
+"Me siento muy positivo sobre el futuro",Alegre
+"Las memorias a veces son dolorosas",Melancólico
+"Hoy es solo otro día más",Ni fu ni fa
+"Me siento feliz por lo que tengo",Alegre
+"Los recuerdos tristes siempre vuelven a mí",Melancólico
+"Hoy no tengo planes emocionantes",Ni fu ni fa
+"Hoy todo es vibrante para mí",Alegre
+"Me siento atrapado en un ciclo de tristeza",Melancólico
+"Hoy todo es tan indiferente",Ni fu ni fa
+"Me siento lleno de alegría y amor",Alegre
+"El pasado a veces me invade sin aviso",Melancólico
+"Hoy no tengo expectativas sobre nada",Ni fu ni fa
+"Hoy es un día hermoso para vivir",Alegre
+"Me siento abrumado por la melancolía",Melancólico
+"Hoy es un día monótono",Ni fu ni fa
+"Estoy disfrutando cada segundo de este día",Alegre
+"Mis pensamientos tristes a veces me atormentan",Melancólico
+"Hoy no hay nada emocionante en mi vida",Ni fu ni fa
+"Me siento feliz a pesar de los obstáculos",Alegre
+"El eco de mis recuerdos me duele",Melancólico
+"Hoy no tengo ningún impulso",Ni fu ni fa
+"Hoy me siento tan alegre como un niño",Alegre
+"Las lágrimas caen sin razón",Melancólico
+"Hoy no tengo energías para salir",Ni fu ni fa
+"Me siento en paz conmigo mismo",Alegre
+"El sabor de la tristeza es agridulce",Melancólico
+"Hoy todo me resulta aburrido",Ni fu ni fa
+"Me siento como si pudiera conquistar el mundo",Alegre
+"Siento que la melancolía me atrapa",Melancólico
+"Hoy no tengo motivaciones",Ni fu ni fa
+"Hoy me siento ligero y feliz",Alegre
+"Mis pensamientos melancólicos me atormentan",Melancólico
+"Hoy todo se siente estancado",Ni fu ni fa
+"Me siento en la cima de mi felicidad",Alegre
+"Las sombras del ayer siempre regresan",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento bendecido y contento",Alegre
+"El eco de mis recuerdos me atormenta",Melancólico
+"Hoy es solo un día en la rutina",Ni fu ni fa
+"Me siento afortunado de tener lo que tengo",Alegre
+"Me persigue un aire de tristeza",Melancólico
+"Hoy no hay emociones destacadas",Ni fu ni fa
+"Me siento increíblemente feliz y realizado",Alegre
+"Las memorias a veces me abruman",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Me siento lleno de gratitud y amor",Alegre
+"El paso del tiempo me deja huellas de tristeza",Melancólico
+"Hoy es solo otro día común",Ni fu ni fa
+"Hoy estoy radiante de felicidad",Alegre
+"Me invade la melancolía a veces",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Me siento pleno y en armonía con el mundo",Alegre
+"Siento que la tristeza a veces me envuelve",Melancólico
+"Hoy no tengo ganas de interactuar",Ni fu ni fa
+"Me siento optimista y feliz",Alegre
+"El recuerdo agridulce a veces me abruma",Melancólico
+"Hoy todo es monótono y predecible",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Las memorias tristes siempre vuelven",Melancólico
+"Hoy no siento muchas emociones",Ni fu ni fa
+"Hoy estoy lleno de alegría",Alegre
+"El eco del pasado a veces resuena",Melancólico
+"Hoy no hay nada especial que me llame la atención",Ni fu ni fa
+"Me siento emocionado por el futuro",Alegre
+"Siento que mis recuerdos me atrapan",Melancólico
+"Hoy no tengo mucho que compartir",Ni fu ni fa
+"Hoy es un día radiante",Alegre
+"Me envuelven pensamientos de tristeza",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Estoy disfrutando de la vida al máximo",Alegre
+"El peso de la melancolía a veces es insoportable",Melancólico
+"Hoy no hay nada emocionante en mi día",Ni fu ni fa
+"Me siento positivo y alegre",Alegre
+"Siento que la tristeza a veces me envuelve",Melancólico
+"Hoy es solo un día más",Ni fu ni fa
+"Hoy me siento lleno de energía y entusiasmo",Alegre
+"Me invaden recuerdos melancólicos",Melancólico
+"Hoy todo parece monótono",Ni fu ni fa
+"Me siento muy feliz hoy",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy es un día especial y lleno de vida",Alegre
+"Mis pensamientos tristes me persiguen",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me siento afortunado por cada pequeño momento",Alegre
+"Me asaltan pensamientos melancólicos sin aviso",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy estoy emocionado por el futuro",Alegre
+"El eco de mis recuerdos me duele",Melancólico
+"Hoy todo me parece común",Ni fu ni fa
+"Me siento alegre y optimista",Alegre
+"Siento que la tristeza me atrapa",Melancólico
+"Hoy es un día neutro",Ni fu ni fa
+"Hoy estoy lleno de gratitud y felicidad",Alegre
+"El pasado siempre regresa a mí",Melancólico
+"Hoy todo es tan indiferente",Ni fu ni fa
+"Me siento pleno y contento",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Me siento emocionado por cada nuevo día",Alegre
+"El peso de la melancolía a veces me agobia",Melancólico
+"Hoy no tengo ningún deseo",Ni fu ni fa
+"Hoy me siento lleno de alegría y amor",Alegre
+"Siento que el pasado me atormenta",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy es un día para recordar",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy todo es normal y predecible",Ni fu ni fa
+"Me siento feliz y agradecido",Alegre
+"Los recuerdos a veces me abruman",Melancólico
+"Hoy es solo otro día en la rutina",Ni fu ni fa
+"Hoy me siento lleno de vida",Alegre
+"Me invade la tristeza a veces",Melancólico
+"Hoy no hay nada emocionante en mi vida",Ni fu ni fa
+"Me siento optimista sobre el futuro",Alegre
+"Me pesa el recuerdo de lo que perdí",Melancólico
+"Hoy no tengo planes",Ni fu ni fa
+"Me siento afortunado de tener buenos amigos",Alegre
+"Me asaltan recuerdos tristes sin aviso",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento feliz y lleno de energía",Alegre
+"El silencio a veces me pesa",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Me siento en la cima del mundo",Alegre
+"Me invade la tristeza a veces",Melancólico
+"Hoy todo me parece indiferente",Ni fu ni fa
+"Hoy me siento optimista y positivo",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy no tengo ninguna expectativa",Ni fu ni fa
+"Me siento tan agradecido por cada momento",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy es solo otro día más",Ni fu ni fa
+"Me siento feliz de estar aquí",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy todo es monótono y aburrido",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Me siento feliz por cada pequeño detalle",Alegre
+"Las sombras de mi pasado a veces me alcanzan",Melancólico
+"Hoy no siento muchas emociones",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"El pasado a veces me abruma",Melancólico
+"Hoy es simplemente un día normal",Ni fu ni fa
+"Me siento alegre y optimista",Alegre
+"Las memorias tristes a veces vuelven a mí",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Me siento emocionado por lo que está por venir",Alegre
+"Me invaden pensamientos melancólicos sin aviso",Melancólico
+"Hoy no tengo nada que hacer",Ni fu ni fa
+"Me siento feliz a pesar de los obstáculos",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Me persigue un aire de tristeza",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento pleno y alegre",Alegre
+"Las memorias tristes a veces son dolorosas",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"Siento que mis recuerdos me atrapan",Melancólico
+"Hoy no tengo grandes planes",Ni fu ni fa
+"Me siento feliz y agradecido por cada momento",Alegre
+"Me envuelven pensamientos de tristeza",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento alegre como un niño",Alegre
+"Me invade la melancolía a veces",Melancólico
+"Hoy todo parece tan indiferente",Ni fu ni fa
+"Me siento pleno y feliz",Alegre
+"Las memorias tristes a veces me abrumen",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Me siento feliz por lo que tengo",Alegre
+"Las sombras de mi pasado a veces me alcanzan",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Hoy me siento lleno de vida",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy es solo otro día más",Ni fu ni fa
+"Hoy estoy emocionado por lo que viene",Alegre
+"El peso de la tristeza a veces me agobia",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Me siento optimista y feliz",Alegre
+"Las memorias a veces son dolorosas",Melancólico
+"Hoy es un día monótono",Ni fu ni fa
+"Me siento feliz y agradecido",Alegre
+"Las sombras de mi mente a veces me persiguen",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"El eco de mis recuerdos me pesa",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento lleno de alegría",Alegre
+"Me abruman pensamientos melancólicos",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento optimista y feliz",Alegre
+"Me persigue un aire de tristeza",Melancólico
+"Hoy es solo un día más",Ni fu ni fa
+"Hoy me siento pleno y en paz",Alegre
+"El paso del tiempo a veces me abruma",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy todo parece tan aburrido",Ni fu ni fa
+"Hoy estoy emocionado por lo que viene",Alegre
+"El eco del pasado a veces me atormenta",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me envuelven recuerdos tristes",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me siento feliz por cada pequeño detalle",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy es solo otro día en la rutina",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"Me asaltan pensamientos melancólicos sin aviso",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy emocionado por el futuro",Alegre
+"Las memorias tristes a veces me persiguen",Melancólico
+"Hoy todo parece monótono",Ni fu ni fa
+"Hoy me siento pleno y feliz",Alegre
+"Las sombras de mi mente a veces me atrapan",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento alegre y lleno de vida",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento optimista y agradecido",Alegre
+"El pasado a veces me abruma",Melancólico
+"Hoy todo es tan indiferente",Ni fu ni fa
+"Hoy me siento feliz y lleno de alegría",Alegre
+"Las memorias tristes a veces son dolorosas",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Las sombras de mi pasado a veces me persiguen",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"Me invaden pensamientos melancólicos",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Me asaltan recuerdos tristes sin aviso",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"El peso de la melancolía a veces me agobia",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Me siento alegre y optimista",Alegre
+"Las memorias tristes a veces vuelven a mí",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Hoy me siento feliz por lo que está por venir",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"El eco de mis recuerdos a veces me pesa",Melancólico
+"Hoy todo parece tan monótono",Ni fu ni fa
+"Me siento muy feliz hoy",Alegre
+"Me persiguen sombras del pasado",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy me siento lleno de alegría",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me invade una sensación de melancolía",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento afortunado y lleno de vida",Alegre
+"El recuerdo de lo que perdí a veces me atormenta",Melancólico
+"Hoy no siento emociones intensas",Ni fu ni fa
+"Hoy me siento muy alegre",Alegre
+"Las sombras del pasado a veces me persiguen",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Me siento feliz por cada pequeño detalle",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy lleno de gratitud y alegría",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Me siento positivo y feliz",Alegre
+"Me asaltan pensamientos melancólicos sin aviso",Melancólico
+"Hoy es un día monótono",Ni fu ni fa
+"Hoy me siento feliz por lo que tengo",Alegre
+"Las memorias tristes a veces me agobian",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento emocionado por cada nuevo día",Alegre
+"Las sombras de mi mente a veces me persiguen",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"El paso del tiempo a veces me abruma",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento pleno y lleno de alegría",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy estoy disfrutando cada instante",Alegre
+"Me asaltan pensamientos tristes",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Me siento optimista y emocionado por lo que viene",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy todo parece monótono",Ni fu ni fa
+"Hoy me siento feliz y agradecido",Alegre
+"Me persiguen sombras del pasado",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy disfrutando de cada pequeño momento",Alegre
+"Las memorias tristes a veces me persiguen",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Me siento pleno y feliz",Alegre
+"Las sombras de mi mente a veces me atrapan",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño detalle",Alegre
+"El eco de mis recuerdos a veces me pesa",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"Me persiguen recuerdos melancólicos",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento lleno de energía y gratitud",Alegre
+"Me invade una sensación de melancolía",Melancólico
+"Hoy es solo otro día en la rutina",Ni fu ni fa
+"Me siento muy feliz hoy",Alegre
+"El pasado a veces me asalta",Melancólico
+"Hoy no hay nada especial que me llame la atención",Ni fu ni fa
+"Me siento optimista y emocionado por lo que está por venir",Alegre
+"Las sombras del pasado a veces me atormentan",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento lleno de vida y energía",Alegre
+"Me invaden recuerdos tristes a veces",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Me siento alegre y agradecido por cada día",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento feliz y pleno",Alegre
+"Las memorias tristes a veces me persiguen",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento muy afortunado",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy todo parece tan monótono",Ni fu ni fa
+"Me siento optimista y lleno de vida",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Me abruman pensamientos melancólicos",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento lleno de alegría",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy emocionado por lo que viene",Alegre
+"El eco del pasado a veces me atormenta",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy me siento optimista y feliz",Alegre
+"Me persigue un aire de tristeza",Melancólico
+"Hoy es solo un día más",Ni fu ni fa
+"Hoy me siento pleno y en paz",Alegre
+"El paso del tiempo a veces me abruma",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy todo parece tan aburrido",Ni fu ni fa
+"Hoy estoy emocionado por lo que viene",Alegre
+"El eco del pasado a veces me atormenta",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me envuelven recuerdos tristes",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me siento feliz por cada pequeño detalle",Alegre
+"Las sombras del pasado a veces me alcanzan",Melancólico
+"Hoy es solo otro día en la rutina",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"Me asaltan pensamientos melancólicos sin aviso",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy emocionado por el futuro",Alegre
+"Las memorias tristes a veces me persiguen",Melancólico
+"Hoy todo parece monótono",Ni fu ni fa
+"Hoy me siento pleno y feliz",Alegre
+"Las sombras de mi mente a veces me atrapan",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento alegre y lleno de vida",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento optimista y agradecido",Alegre
+"El pasado a veces me abruma",Melancólico
+"Hoy todo es tan indiferente",Ni fu ni fa
+"Hoy me siento feliz y lleno de alegría",Alegre
+"Las memorias tristes a veces son dolorosas",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Las sombras de mi pasado a veces me persiguen",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento lleno de energía",Alegre
+"Me invaden pensamientos melancólicos",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"Me asaltan recuerdos tristes sin aviso",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"El peso de la melancolía a veces me agobia",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Me siento alegre y optimista",Alegre
+"Las memorias tristes a veces vuelven a mí",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Hoy me siento feliz por lo que está por venir",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"El eco de mis recuerdos a veces me pesa",Melancólico
+"Hoy todo parece tan monótono",Ni fu ni fa
+"Me siento muy feliz hoy",Alegre
+"Me persiguen sombras del pasado",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy me siento lleno de alegría",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me invade una sensación de melancolía",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento afortunado y lleno de vida",Alegre
+"El recuerdo de lo que perdí a veces me atormenta",Melancólico
+"Hoy no siento emociones intensas",Ni fu ni fa
+"Hoy me siento muy alegre",Alegre
+"Las sombras del pasado a veces me persiguen",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Me siento feliz por cada pequeño detalle",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy lleno de gratitud y alegría",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Me siento positivo y feliz",Alegre
+"Me asaltan pensamientos melancólicos sin aviso",Melancólico
+"Hoy es un día monótono",Ni fu ni fa
+"Hoy me siento feliz por lo que tengo",Alegre
+"Las memorias tristes a veces me agobian",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento emocionado por cada nuevo día",Alegre
+"Las sombras de mi mente a veces me persiguen",Melancólico
+"Hoy no siento ninguna novedad",Ni fu ni fa
+"Me siento feliz por cada pequeño momento",Alegre
+"El paso del tiempo a veces me abruma",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento pleno y lleno de alegría",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy estoy disfrutando cada instante",Alegre
+"Me asaltan pensamientos tristes",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy emocionado por el futuro",Alegre
+"Las memorias tristes a veces me persiguen",Melancólico
+"Hoy todo parece monótono",Ni fu ni fa
+"Hoy me siento pleno y feliz",Alegre
+"Las sombras de mi mente a veces me atrapan",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño detalle",Alegre
+"El eco de mis recuerdos a veces me pesa",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"Me persiguen recuerdos melancólicos",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento lleno de energía y gratitud",Alegre
+"Me invade una sensación de melancolía",Melancólico
+"Hoy es solo otro día en la rutina",Ni fu ni fa
+"Me siento muy feliz hoy",Alegre
+"El pasado a veces me asalta",Melancólico
+"Hoy no hay nada especial que me llame la atención",Ni fu ni fa
+"Me siento optimista y emocionado por lo que está por venir",Alegre
+"Las sombras del pasado a veces me atormentan",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento lleno de vida y energía",Alegre
+"Me envuelven pensamientos tristes",Melancólico
+"Hoy todo parece tan aburrido",Ni fu ni fa
+"Hoy me siento afortunado y feliz",Alegre
+"Me persiguen sombras de recuerdos tristes",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy disfrutando de cada momento",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento pleno y optimista",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy lleno de alegría",Alegre
+"Me envuelven sombras del pasado",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño momento",Alegre
+"Las memorias tristes a veces me alcanzan",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"Las sombras de mi mente a veces me persiguen",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"El peso de la melancolía a veces me abrumo",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Hoy me siento muy feliz",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy estoy disfrutando cada instante",Alegre
+"Me persigue un aire de melancolía",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento optimista y lleno de alegría",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy todo parece tan monótono",Ni fu ni fa
+"Hoy estoy emocionado por lo que está por venir",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy me siento feliz y en paz",Alegre
+"El pasado a veces me abruma",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento afortunado y lleno de alegría",Alegre
+"Me asaltan sombras del pasado",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy lleno de gratitud y alegría",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento muy feliz",Alegre
+"Las sombras de mi mente a veces me atrapan",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Me envuelven pensamientos tristes",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño momento",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me persiguen sombras del pasado",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento lleno de energía y optimismo",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Hoy me siento muy alegre",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy disfrutando cada instante",Alegre
+"Las sombras de mi mente a veces me persiguen",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy me siento optimista y agradecido",Alegre
+"El pasado a veces me abruma",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento pleno y feliz",Alegre
+"Las memorias melancólicas a veces me asaltan",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy estoy emocionado por lo que está por venir",Alegre
+"Me persiguen sombras del pasado",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento feliz y en paz",Alegre
+"Me envuelven pensamientos tristes",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy me siento lleno de alegría",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Me envuelven recuerdos melancólicos",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"Las sombras del pasado a veces me persiguen",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy estoy lleno de gratitud y alegría",Alegre
+"El peso de la melancolía a veces me asalta",Melancólico
+"Hoy es solo un día común",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño momento",Alegre
+"Las memorias melancólicas a veces me persiguen",Melancólico
+"Hoy no hay emociones fuertes",Ni fu ni fa
+"Hoy me siento emocionado por lo que está por venir",Alegre
+"Las sombras de mi mente a veces me atormentan",Melancólico
+"Hoy no tengo planes interesantes",Ni fu ni fa
+"Hoy me siento optimista y lleno de alegría",Alegre
+"Me persiguen recuerdos tristes",Melancólico
+"Hoy no hay nada que me entusiasme",Ni fu ni fa
+"Hoy estoy disfrutando de cada momento",Alegre
+"Me envuelven pensamientos melancólicos",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento pleno y feliz",Alegre
+"El eco de mis recuerdos a veces me atormenta",Melancólico
+"Hoy todo parece tan monótono",Ni fu ni fa
+"Hoy estoy emocionado por lo que está por venir",Alegre
+"Las sombras del pasado a veces me persiguen",Melancólico
+"Hoy no hay emociones intensas",Ni fu ni fa
+"Hoy me siento feliz y en paz",Alegre
+"Me asaltan pensamientos tristes",Melancólico
+"Hoy no tengo ganas de hacer nada",Ni fu ni fa
+"Hoy me siento optimista y lleno de vida",Alegre
+"Las memorias melancólicas a veces me atormentan",Melancólico
+"Hoy no hay nada especial que esperar",Ni fu ni fa
+"Hoy estoy disfrutando de la vida al máximo",Alegre
+"Las sombras de mi mente a veces me abruman",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento feliz por cada pequeño momento",Alegre
+"El peso de la melancolía a veces me asalta",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy me siento lleno de energía y gratitud",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy es solo un día normal",Ni fu ni fa
+"Hoy me siento muy feliz",Alegre
+"Las sombras del pasado a veces me persiguen",Melancólico
+"Hoy no tengo grandes expectativas",Ni fu ni fa
+"Hoy me siento optimista y lleno de alegría",Alegre
+"El eco de mis recuerdos a veces me duele",Melancólico
+"Hoy no hay nada que me emocione",Ni fu ni fa
+"Hoy estoy disfrutando cada momento",Alegre
+"Me envuelven pensamientos tristes",Melancólico
+"Hoy no tengo deseos claros",Ni fu ni fa
+"Hoy me siento emocionado por el futuro",Alegre
+"Las memorias tristes a veces me atormentan",Melancólico
+"Hoy no hay nada emocionante",Ni fu ni fa
+"Hoy estoy lleno de gratitud y alegría",Alegre
