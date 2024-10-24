@@ -8,6 +8,8 @@ import bokeh.models
 import bokeh.plotting
 import numpy as np
 import os
+import tensorflow_text
+from sklearn.neighbors import NearestNeighbors
 import tensorflow as tf
 import tensorflow_hub as hub
 from sklearn.preprocessing import OneHotEncoder

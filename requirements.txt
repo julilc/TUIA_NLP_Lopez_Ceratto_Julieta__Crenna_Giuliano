@@ -3,3 +3,4 @@ pandas
 requests
 ipykernel
 scikit-learn
+#tensorflow
