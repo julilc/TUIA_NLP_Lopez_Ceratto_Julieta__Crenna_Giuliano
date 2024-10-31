@@ -4,11 +4,28 @@ import os
 import pandas as pd
 from requests import Response
 from bs4 import BeautifulSoup
-from typing import Any, Iterable, List
+from typing import Any, Iterable, List, Tuple
 
 DATASET_PATH: str = os.path.join(os.getcwd(), 'data', 'dataset_libros.csv')
+TEST_DATASET_PATH: str = os.path.join(os.getcwd(), 'data', 'dataset_libros_test.csv')
 
+ruta_abs: str = 'https://www.gutenberg.org'
 ruta_url: str = 'https://www.gutenberg.org/browse/scores/top1000.php#books-last1'
+
+def obtener_resumen(*, url: str) -> str:
+    print(f'> {url}')
+    response = requests.get(url)
+    response.raise_for_status()  
+    
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    summary_tag = soup.find('th', string='Summary')
+    
+    if summary_tag:
+        resumen = summary_tag.find_next_sibling('td').get_text(strip=True)
+        return resumen
+    else:
+        return "Resumen no encontrado"
 
 def get_libros(*, url: str) -> List[str]:
     """
@@ -42,18 +59,23 @@ def get_libros(*, url: str) -> List[str]:
 
     ol: Iterable[Any] = soup.findAll('ol')
 
-    libros: List[str] = []
+    libros: List[Tuple[str, str]] = []
 
     for libro in ol:
         enlaces = libro.findAll('li')
         for enlace in enlaces:
-            libros.append(enlace.text)
+            link: str = enlace.a.get('href')
+            
+            if 'ebooks' in link:
+                resumen: str = obtener_resumen(url=f'{ruta_abs}{link}')
+            
+            libros.append((enlace.text, resumen))
 
-    libros = [libro for libro in libros if libro != '']
+    libros = [libro for libro in libros if libro[0] != '']
 
     return libros
 
-def create_dataset(*, libros: List[str], SAVE_PATH: str) -> None:
+def create_dataset(*, libros: List[Tuple[str, str]], SAVE_PATH: str) -> None:
     """
     Crea un conjunto de datos estructurado a partir de una lista de descripciones de libros.
 
@@ -102,8 +124,9 @@ def create_dataset(*, libros: List[str], SAVE_PATH: str) -> None:
     titulo_secundario: List[str] = []
     autor: List[str] = []
     n_ref: List[str] = []
-
-    for libro in libros:
+    resumenes: List[str] = []
+    
+    for libro, resumen in libros:
         titulo = re.search(patron_titulo_principal, libro)
         titulo_principal.append(titulo.group(1) if titulo else "")
 
@@ -116,11 +139,14 @@ def create_dataset(*, libros: List[str], SAVE_PATH: str) -> None:
         ref = re.search(patron_n_ref, libro)
         n_ref.append(ref.group(1) if ref else "")
         
+        resumenes.append(resumen)
+        
     dataset_libros = pd.DataFrame({
         'Titulo Principal': titulo_principal,
         'Titulo Secundario': titulo_secundario,
         'Autor': autor,
         'N° Ref': n_ref,
+        'Resumen': resumenes
     })
 
     dataset_libros.duplicated().sum()
@@ -130,6 +156,6 @@ def create_dataset(*, libros: List[str], SAVE_PATH: str) -> None:
     dataset_libros.to_csv(SAVE_PATH, index=False)
     
 if __name__ == '__main__':
-    libros: List[str] = get_libros(url=ruta_url)
+    libros = get_libros(url=ruta_url)
     create_dataset(libros=libros,
                    SAVE_PATH=DATASET_PATH)
